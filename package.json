@@ -1,0 +1,20 @@
+{
+  "name": "infra-integration-assurance",
+  "version": "1.0.0",
+  "description": "Automated customer environment integration and compliance assurance engine",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node --test test/**/*.test.mjs"
+  },
+  "keywords": [
+    "infrastructure",
+    "integration",
+    "compliance",
+    "msp",
+    "security-posture",
+    "remediation"
+  ],
+  "author": "Soumya Debnath",
+  "license": "MIT"
+}
